@@ -1,0 +1,4 @@
+.venv
+.ipynb_checkpoints
+fastai-nn.csv
+random-forest.csv
