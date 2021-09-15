@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 fastai-nn.csv
 random-forest.csv
+cat-boost.csv
+catboost_info
