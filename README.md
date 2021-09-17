@@ -33,3 +33,8 @@ wpt_name was also similar to funder and installer. High cardinality (45684 value
 region and region_code had a lot of overlaps. The same was true for (extraction_type, extraction_type_group, extraction_type_class) and (management, management_group) and (water_quality and quality_group) and (quantity, quantity_group) and (source, source_type, source_class) and (waterpoint_type, waterpoint_type_group). Some of the mentioned columns were groupings of others, so might be safe to remove.
 
 recorded_by column had only one value. So it is not relavent.
+
+## Screenshot
+
+![Screenhot_2021-09-17_13-31](https://user-images.githubusercontent.com/34407567/133750165-c9eb9d3c-c7e7-486e-85ca-e6fc4ba8b9a2.png)
+
