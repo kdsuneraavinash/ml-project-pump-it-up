@@ -1,6 +1,8 @@
 # ML Project - Pump It Up
 
-Notebook: [notebook.ipynb](notebook.ipynb)
+Repository: [Repo](https://github.com/kdsuneraavinash/ml-project-pump-it-up)
+
+Notebook: [notebook.ipynb](https://github.com/kdsuneraavinash/ml-project-pump-it-up/blob/master/notebook.ipynb)
 
 Used models: RandomForest, NN (Provided by FastAI) and CatBoost
 
@@ -36,5 +38,6 @@ recorded_by column had only one value. So it is not relavent.
 
 ## Screenshot
 
-![Screenhot_2021-09-17_13-31](https://user-images.githubusercontent.com/34407567/133750165-c9eb9d3c-c7e7-486e-85ca-e6fc4ba8b9a2.png)
+![Screenhot_2021-09-17_13-53](https://user-images.githubusercontent.com/34407567/133750385-ad102f83-17a0-4ab3-9038-47ad30b1deea.png)
+
 
