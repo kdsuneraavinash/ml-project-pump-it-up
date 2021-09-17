@@ -1,6 +1,6 @@
 # ML Project - Pump It Up
 
-Repository: [Repo](https://github.com/kdsuneraavinash/ml-project-pump-it-up)
+Repository: [https://github.com/kdsuneraavinash/ml-project-pump-it-up](https://github.com/kdsuneraavinash/ml-project-pump-it-up)
 
 Notebook: [notebook.ipynb](https://github.com/kdsuneraavinash/ml-project-pump-it-up/blob/master/notebook.ipynb)
 
